@@ -7,6 +7,7 @@
 }
 .cabecario{
     background-color: var(--amarelo);
+    display: flex;
 
 }
  .imagem-cabecario{
