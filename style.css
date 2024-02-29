@@ -8,7 +8,7 @@
 .cabecario{
     background-color: var(--amarelo);
     display: flex;
-    justify-content:flex-start
+    justify-content:baseline
 
 }
  .imagem-cabecario{
