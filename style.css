@@ -9,6 +9,8 @@
     background-color: var(--amarelo);
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    padding: 24px;
 
 }
  .imagem-cabecario{
