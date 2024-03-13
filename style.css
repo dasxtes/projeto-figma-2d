@@ -38,5 +38,7 @@ width: 100px
  .escola{
     background-image:linear-gradient( #EBEF31, #5E63C7);
     display: flex;
+    align-items: center;
+    padding: 24px 0;
  }
 
