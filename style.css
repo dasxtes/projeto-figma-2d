@@ -54,8 +54,6 @@ width: 100px
 .escola-titulo{
 
    padding: 24px 0;
-   background-color: #9FEEF3;
-   text-align: center;
 
 }
 .estudante-img {
@@ -66,6 +64,11 @@ width: 100px
 
    width: 24px;
    padding: 4px 8px;
+}
+.estudante-titulo{
+
+   background-color: #9FEEF3;
+   text-align: center;
 }
 .estudante-div{
 
