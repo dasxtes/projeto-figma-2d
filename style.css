@@ -38,7 +38,7 @@ width: 100px
 
  }
  .escola{
-    background-image:linear-gradient( #201BF4, #6C3EA6);
+    background-image:linear-gradient( #131315, #FFFFFF);
     display: flex;
     align-items: center;
     padding: 24px 0;
@@ -63,9 +63,11 @@ width: 100px
 .estudante-icone{
 
    width: 24px;
+   padding: 4px 8px;
 }
 .estudante-div{
 
    text-align: center;
+   padding: 10px 0;
    
 }
