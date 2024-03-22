@@ -71,3 +71,7 @@ width: 100px
    padding: 10px 0;
    
 }
+.estudante-todos{
+
+   display: grid;
+}
